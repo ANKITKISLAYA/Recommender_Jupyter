@@ -26,7 +26,7 @@ items w.r.t to warehouseid and inserted it into mongodb
 
 8.RecSys using sklearn.ipynb  --  In this file i am using sklearn cosine similarity module to generate cosine similarity matrix
 
-Rest are the example  datasets used in creating recommender systems
+Rest are the example  datasets used in creating recommender systems .
 
 
 
